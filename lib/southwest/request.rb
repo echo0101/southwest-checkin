@@ -29,8 +29,7 @@ module Southwest
     end
 
     def api_key
-      # "l7xx8d8bfce4ee874269bedc02832674129b"
-      'l7xx12ebcbc825eb480faa276e7f192d98d1'
+      "l7xxf56d44a0165b4ab3882b8062559b6ca1"
     end
   end
 end
